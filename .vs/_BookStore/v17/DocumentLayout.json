@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\HuyKhoi\\CS\\_BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.data\\profiles\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|solutionrelative:book.data\\profiles\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63757E77-C960-432B-AF10-A2C2F049100C}|Book.Domain\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.domain\\persistencecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63757E77-C960-432B-AF10-A2C2F049100C}|Book.Domain\\Books.Data.csproj|solutionrelative:book.domain\\persistencecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.data\\profiles\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|solutionrelative:book.data\\profiles\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63757E77-C960-432B-AF10-A2C2F049100C}|Book.Domain\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.domain\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63757E77-C960-432B-AF10-A2C2F049100C}|Book.Domain\\Books.Data.csproj|solutionrelative:book.domain\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.data\\profiles\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|solutionrelative:book.data\\profiles\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|d:\\huykhoi\\cs\\_bookstore\\book.data\\profiles\\dtos\\orderheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3C2B29-4DCC-49E7-8979-58608881A68D}|Book.Data\\Books.Data.csproj|solutionrelative:book.data\\profiles\\dtos\\orderheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD17AA84-87ED-4ACA-811C-2F9430D3AA72}|Book.Interface\\Books.Interface.csproj|d:\\huykhoi\\cs\\_bookstore\\book.interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD17AA84-87ED-4ACA-811C-2F9430D3AA72}|Book.Interface\\Books.Interface.csproj|solutionrelative:book.interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistenceContainer.cs",
+              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Domain\\PersistenceContainer.cs",
+              "RelativeDocumentMoniker": "Book.Domain\\PersistenceContainer.cs",
+              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Domain\\PersistenceContainer.cs",
+              "RelativeToolTip": "Book.Domain\\PersistenceContainer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:08:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Book.Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "Book.Interface\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:48:18.32Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -50,54 +72,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Profiles\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Book.Data\\Profiles\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:19:31.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingCartDto.cs",
-              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\ShoppingCartDto.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Profiles\\Dtos\\ShoppingCartDto.cs",
-              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\ShoppingCartDto.cs",
-              "RelativeToolTip": "Book.Data\\Profiles\\Dtos\\ShoppingCartDto.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAApwBwAAAAFAAAA",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Domain\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Book.Domain\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Domain\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Book.Domain\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAewDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:14:56.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Profiles\\Dtos\\ProductDto.cs",
-              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\ProductDto.cs",
-              "RelativeToolTip": "Book.Data\\Profiles\\Dtos\\ProductDto.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwCYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T15:09:13.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderHeaderDto.cs",
-              "DocumentMoniker": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\OrderHeaderDto.cs",
-              "RelativeDocumentMoniker": "Book.Data\\Profiles\\Dtos\\OrderHeaderDto.cs",
-              "ToolTip": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Profiles\\Dtos\\OrderHeaderDto.cs",
-              "RelativeToolTip": "Book.Data\\Profiles\\Dtos\\OrderHeaderDto.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwDAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:52:48.698Z",
+              "WhenOpened": "2024-05-09T02:32:29.978Z",
               "EditorCaption": ""
             }
           ]

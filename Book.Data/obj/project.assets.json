@@ -7443,9 +7443,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Books.Data.csproj",
-      "projectName": "Books.Data",
-      "projectPath": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Books.Data.csproj",
+      "projectUniqueName": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Books.Domain.csproj",
+      "projectName": "Books.Domain",
+      "projectPath": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\Books.Domain.csproj",
       "packagesPath": "C:\\Users\\khoit\\.nuget\\packages\\",
       "outputPath": "D:\\HuyKhoi\\CS\\_BookStore\\Book.Data\\obj\\",
       "projectStyle": "PackageReference",

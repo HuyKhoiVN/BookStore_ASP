@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Entities
+namespace Books.Domain.Entities
 {
     public class ApplicationUser : IdentityUser
     {

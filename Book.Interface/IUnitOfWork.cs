@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Books.Interface
 {
-    public interface IUnitOfWork<T> : IDbInitializer where T : class
+    public interface IUnitOfWork<T> : IDisposable where T : class
     {
-        IGenericRepository<T> Repository { get; }
+        IGenericRepository<T> Entity { get; }
         Task CompleteAsync();
     }
 }

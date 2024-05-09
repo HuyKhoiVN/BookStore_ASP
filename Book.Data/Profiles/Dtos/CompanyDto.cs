@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Profiles.Dtos
+namespace Books.Domain.Profiles.Dtos
 {
     public class CompanyDto
     {

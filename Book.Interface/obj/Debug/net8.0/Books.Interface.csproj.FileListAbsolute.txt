@@ -1,0 +1,13 @@
+D:\HuyKhoi\CS\_BookStore\Book.Interface\bin\Debug\net8.0\Books.Interface.deps.json
+D:\HuyKhoi\CS\_BookStore\Book.Interface\bin\Debug\net8.0\Books.Interface.dll
+D:\HuyKhoi\CS\_BookStore\Book.Interface\bin\Debug\net8.0\Books.Interface.pdb
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.AssemblyInfoInputs.cache
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.AssemblyInfo.cs
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.csproj.CoreCompileInputs.cache
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.sourcelink.json
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.dll
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\refint\Books.Interface.dll
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.pdb
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\ref\Books.Interface.dll
+D:\HuyKhoi\CS\_BookStore\Book.Interface\obj\Debug\net8.0\Books.Interface.csproj.AssemblyReference.cache

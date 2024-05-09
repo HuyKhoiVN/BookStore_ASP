@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Entities
+namespace Books.Domain.Entities
 {
     public class Category
     {
@@ -21,6 +21,6 @@ namespace Books.Data.Entities
 
         [Display(Name = "Created Date")]
         [DataType(DataType.Date)]
-        public DateTime? CretedDate { get; set; } = DateTime.Now;
+        public DateTime? CreatedDate { get; set; } = DateTime.Now;
     }
 }

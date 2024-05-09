@@ -1,11 +1,11 @@
-﻿using Books.Data.Entities;
+﻿using Books.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.ViewModels
+namespace Books.Domain.ViewModels
 {
     public class OrderViewModel
     {

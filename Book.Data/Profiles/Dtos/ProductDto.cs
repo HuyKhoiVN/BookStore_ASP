@@ -1,5 +1,5 @@
-﻿using Books.Data.Entities;
-using Books.Data.Utitlities;
+﻿using Books.Domain.Entities;
+using Books.Domain.Utitlities;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Profiles.Dtos
+namespace Books.Domain.Profiles.Dtos
 {
     public class ProductDto
     {

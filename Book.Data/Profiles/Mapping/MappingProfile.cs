@@ -1,13 +1,14 @@
 ﻿using AutoMapper;
-using Books.Data.Entities;
-using Books.Data.Profiles.Dtos;
+using Books.Domain.Entities;
+using Books.Domain.Profiles.Dtos;
+using Books.Domain.Profiles.Dtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Profiles.Mapping
+namespace Books.Domain.Profiles.Mapping
 {
     public class MappingProfile : Profile
     {

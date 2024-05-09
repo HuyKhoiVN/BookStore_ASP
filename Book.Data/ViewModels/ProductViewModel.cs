@@ -1,4 +1,4 @@
-﻿using Books.Data.Entities;
+﻿using Books.Domain.Entities;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.ViewModels
+namespace Books.Domain.ViewModels
 {
 #pragma warning disable CS8618 
 

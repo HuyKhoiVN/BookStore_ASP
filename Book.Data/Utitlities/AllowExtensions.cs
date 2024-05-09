@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Books.Data.Utitlities
+namespace Books.Domain.Utitlities
 {
 #pragma warning disable CS8603
 #pragma warning disable CS8765
